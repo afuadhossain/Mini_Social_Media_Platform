@@ -1,0 +1,36 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="http://cs.mcgill.ca/~hlee168/ass4/login.css">
+  <title> Login </title>
+</head>
+<body>
+  <div class="wrap">
+    <div class="fleft">
+      <div class="inputform">
+        <center>
+        <b><h1>Login</h1></b>
+        <form action="../cgi-bin/login.cgi" method="post">
+          <input type="text" name="username" maxlength="20" placeholder="Username" required><br>
+          <input type="password" name="pw" maxlength="20" placeholder="Password" required><br>
+          <input type="submit" class="btn" value="Login">
+        </form>
+      </center>
+      </div>
+    </div>
+    <div class="fright">
+      <div class="inputform">
+        <center>
+        <b><h1>Registration</h1></b>
+        <form action="../cgi-bin/register.cgi" method="post">
+          <input type="text" name="username" maxlength="20" placeholder="Username" required><br>
+          <input type="password" name="pw" maxlength="20" placeholder="Password" required><br>
+          <input type="text" name="fullname" maxlength="50" placeholder="Full Name (Optional)"><br>
+          <input type="text" name="jobdesc" maxlength="100" placeholder="Job Description (Optional)"><br>
+          <input type="submit" class="btn" value="Register">
+        </form>
+      </center>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

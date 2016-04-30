@@ -1,0 +1,35 @@
+commit 682e92a217686ccad8efd3d7ff729a8ca3e8f52d
+Author: Hurn Ook LEE <hlee168@trusty>
+Date:   Fri Apr 15 02:13:05 2016 -0400
+
+    Special character parsing + alphanumeric check
+
+commit 2c8de7c5b17750ae0d90abf28e2ca20d2bab1626
+Author: Hurn Ook LEE <hlee168@linux.CS.McGill.CA>
+Date:   Fri Apr 15 01:27:28 2016 -0400
+
+    Final version
+
+commit 7720be7902037a92a6534f3ef5ce052cfc15a33c
+Author: Hurn Ook LEE <hlee168@linux.CS.McGill.CA>
+Date:   Sun Apr 10 23:43:40 2016 -0400
+
+    Fully functional
+
+commit 167ae523bbf81217c029f65b5dffc3a33426bdb5
+Author: Hurn Ook LEE <hlee168@linux.CS.McGill.CA>
+Date:   Sun Apr 10 23:14:24 2016 -0400
+
+    Renamed registration.c
+
+commit 87db7a430e5fe3f8893e3f55afcd611d214cc800
+Author: Hurn Ook LEE <hlee168@trusty>
+Date:   Fri Apr 8 17:19:32 2016 -0400
+
+    Now adding multiple user guidelines
+
+commit fabeded21fd92fa2b8e952fe23808dde394917ed
+Author: Hurn Ook LEE <hlee168@linux.CS.McGill.CA>
+Date:   Fri Apr 8 02:24:32 2016 -0400
+
+    Initial commit
